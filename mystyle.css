@@ -37,6 +37,7 @@ body {
 
 #intro-heading {
     padding-left: 20px;
+    color: rgb(36, 94, 40)
 }
 
 #intro-para {
@@ -45,10 +46,12 @@ body {
     border-top: 1px solid green;
     border-bottom: 1px solid green;
     background-color: rgb(204, 222, 211);
+    color: rgb(52, 145, 59);
 }
 
 #habitats {
     padding-left: 20px;
+    color: rgb(36, 94, 40);
 }
 
 #habitat-info {
@@ -60,6 +63,7 @@ body {
 
 #fun-facts {
     padding-left: 20px;
+    color: rgb(36, 94, 40);
 }
 
 #fun-facts-info {
@@ -71,6 +75,7 @@ body {
 
 #table-heading {
     padding-left: 20px;
+    color: rgb(36, 94, 40);
 }
 
 .whole-table {
@@ -79,10 +84,12 @@ body {
 
 #Table-Heading2 {
     padding-left: 20px;
+    color: rgb(36, 94, 40);
 }
 
 h2 {
     padding-left: 20px;
+    color: rgb(36, 94, 40)
 }
 
 #care {
@@ -90,6 +97,7 @@ h2 {
     margin: auto;
     border: 5px double rgb(62, 99, 73); width: fit-content; font-size: 40px;
     border-radius: 15px;
+    font-family: monospace
 }
 
 #all-care-info {
@@ -102,6 +110,8 @@ h2 {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 20px;
+    background-color: rgb(204, 222, 211);
+    color: rgb(52, 145, 59);   
 }
 
 #cage {
@@ -134,13 +144,21 @@ h2 {
     padding-right: 20px;
 }
 
+.breed-name {
+    padding-right: 25px;
+    padding-left: 25px;
+    
+}
 
+.breed-img {
+    padding-right: 25px;
+}
 
+.page-break {
+    text-align: center;
 
+}
 
-
-
-
-
-
-
+.column-title {
+    font-size: 17px
+}
